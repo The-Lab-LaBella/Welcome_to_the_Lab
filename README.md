@@ -12,6 +12,10 @@ This will serve as a quick-start guide to the lab with links to more in depth de
 
 [Lab Spaces]
 
+[High Performance Computing Cluster]
+
+[Mentorship Compact]
+
 ## General Lab Expectations {#general-lab-expectations}
 
 You are expected to treat everyone with **respect**. This includes respecting their science, ideas, and all aspects of their identity.
@@ -42,7 +46,17 @@ Access to the wet-lab is restricted to individuals who have BSLII certification.
 
 ## High Performance Computing Cluster
 
-You will need access
+You will need access to the HPC here at UNC Charlotte. If you had access in a class this will not be sufficient for our work. You will need to **request a research account** by going to this link <https://oneit.charlotte.edu/urc/get-started>
+
+Make sure you **also ask for access to /projects/labella_lab**
+
+The HPC has some help pages but I've put together a quick-start HPC guide here: TBD
+
+## Mentorship Compact
+
+Each member of the lab has different goals and research interests. To make sure that I'm providing appropriate guides, each semester we will work together to create a Mentorship Compact that outlines research and goals for both Dr. LaBella and you.
+
+We will sit down and go over this once a semester and update it. If you want to check it out you can find it here: TBD
 
 ## Check-List
 
