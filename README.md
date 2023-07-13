@@ -36,6 +36,8 @@ A detailed list of expectations can be found here: <https://github.com/The-Lab-L
 
 **Bioinformatics Building** - There is no dedicated LaBella Lab space in the bioinformatics building. Dr. LaBella's office is BINF 327. If you need a work-space in the Bioinformatics building please email Dr. LaBella and she will find you a space in the shared graduate offices.
 
+If you need access to the Bioinformatics Building after hours you will need to fill out a building request form. Email Dr. LaBella for that form.
+
 **NCRC** - Dr. LaBella's wet lab and main office is at the David H. Murdock Core Laboratory (150 N Research Campus Dr. Kannapolis NC 28081).
 
 **You will need an ID card to access the building.** Please work with Dr. LaBella on obtaining an ID card.
@@ -65,6 +67,8 @@ We will sit down and go over this once a semester and update it. If you want to 
 -   [ ] Join the lab google calendar
 
 -   [ ] Get access to NCRC (if needed)
+
+-   [ ] Get access to Bioinformatics Building (if needed)
 
 -   [ ] Get access to the research HPC
 
