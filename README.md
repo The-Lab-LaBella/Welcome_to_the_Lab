@@ -10,11 +10,13 @@ This will serve as a quick-start guide to the lab with links to more in depth de
 
 [Lab Communication](#lab-communication)
 
-[Lab Spaces]
+[Lab Spaces](#lab-spaces)
 
-[High Performance Computing Cluster]
+[High Performance Computing Cluster](#high-performance-computing-cluster)
 
-[Mentorship Compact]
+[Mentorship Compact](#mentorship-compact)
+
+[Checklist](#checklist)
 
 ## General Lab Expectations
 
