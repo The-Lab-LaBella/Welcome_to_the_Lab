@@ -10,7 +10,7 @@ Other resources include
 
 [Logging into the Research Cluster](#logging-into-the-research-cluster)
 
-[Home, Scratch, and Projects](#home,-scratch,-and-projects)
+[Home, Scratch, and Projects](#home-scratch-and-projects)
 
 [Transferring Data](#transferring-data)
 
