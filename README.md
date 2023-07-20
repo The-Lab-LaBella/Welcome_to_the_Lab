@@ -16,13 +16,13 @@ This will serve as a quick-start guide to the lab with links to more in depth de
 
 [Mentorship Compact]
 
-## General Lab Expectations {#general-lab-expectations}
+## General Lab Expectations
 
 You are expected to treat everyone with **respect**. This includes respecting their science, ideas, and all aspects of their identity.
 
 A detailed list of expectations can be found here: <https://github.com/The-Lab-LaBella/LaBellaLabHandbook>
 
-## Lab Communication {#lab-communication}
+## Lab Communication
 
 **Slack** - We use slack for day-to-day communication. If you have not been invited to the slack channel email Dr. LaBella
 
