@@ -54,7 +54,7 @@ You will need access to the HPC here at UNC Charlotte. If you had access in a cl
 
 Make sure you **also ask for access to /projects/labella_lab**
 
-The HPC has some help pages but I've put together a quick-start HPC guide here: TBD
+The HPC has some help pages but I've put together a quick-start HPC guide here: https://github.com/The-Lab-LaBella/Welcome_to_the_Lab/blob/51e711fc28308f657b9648db7fc7e7ff8d9fc557/HPC_getting_started.md#submitting-jobs-to-the-cluster 
 
 ## Mentorship Compact
 
