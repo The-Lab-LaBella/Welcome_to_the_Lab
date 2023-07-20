@@ -30,13 +30,13 @@ Other resources include
 
 [Getting Help](#getting-help)
 
-### Getting access to the Research Cluster {#gettting-access-to-the-research-cluster}
+### Getting access to the Research Cluster
 
 There are two types of accounts on the cluster: student and research accounts. **If you had a student account for a class you will need a research account!**
 
 To request a **research account** use this page: <https://oneit.charlotte.edu/urc/get-started>
 
-### Logging into the Research Cluster {#logging-into-the-research-cluster}
+### Logging into the Research Cluster
 
 Options for logging into the cluster for different systems include:
 
