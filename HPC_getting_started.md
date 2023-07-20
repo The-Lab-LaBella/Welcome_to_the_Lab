@@ -6,37 +6,37 @@ Other resources include
 
 -   The UNC Charlotte guide: <https://oneit.charlotte.edu/urc/get-started/>
 
-[Getting access to the Research Cluster]
+[Getting access to the Research Cluster](#getting-access-to-the-research-cluster)
 
-[Logging into the Research Cluster]
+[Logging into the Research Cluster](#logging-into-the-research-cluster)
 
-[Home, Scratch, and Projects]
+[Home, Scratch, and Projects](#home,-scratch,-and-projects)
 
-[Transferring Data]
+[Transferring Data](#transferring-data)
 
 [Editing Files & Text Editors](#editing-files-text-editors)
 
-[Submitting jobs to the cluster]
+[Submitting jobs to the cluster](#submitting-jobs-to-the-cluster)
 
-[Data Management]
+[Data Management](#data-management)
 
-[Permissions]
+[Permissions](#permissions)
 
-[Preserving session]
+[Preserving session](#preserving-session)
 
-[Using and Installing Programs and Packages]
+[Using and Installing Programs and Packages](#using-and-installing-programs-and-packages)
 
 [Dr. LaBella's favorite bash commands](#dr.-labellas-favorite-bash-commands)
 
-[Getting Help]
+[Getting Help](#getting-help)
 
-### Getting access to the Research Cluster
+### Getting access to the Research Cluster {#gettting-access-to-the-research-cluster}
 
 There are two types of accounts on the cluster: student and research accounts. **If you had a student account for a class you will need a research account!**
 
 To request a **research account** use this page: <https://oneit.charlotte.edu/urc/get-started>
 
-### Logging into the Research Cluster
+### Logging into the Research Cluster {#logging-into-the-research-cluster}
 
 Options for logging into the cluster for different systems include:
 
@@ -72,7 +72,7 @@ To log into the research cluster **off campus** you will need to set up a VPN. F
 
 -   There are two head nodes in the HPC 10.16.115.245 and 10.16.115.244. You can use one of those numbers to directly log into one of the head nodes. This is helpful if one of the head nodes isn't working correctly
 
-### Home, Scratch, and Projects
+### Home, Scratch, and Projects {#home,-scratch,-and-projects}
 
 Each research user has automatic access to two places in the cluster.
 
@@ -90,7 +90,7 @@ To access our shared project space you will need to be approved. This is where w
 
 Note: if you create or add something here you will need to ensure you enable the proper permissions to allow others to see and/or edit the files.
 
-### Transferring Data
+### Transferring Data {#transferring-data}
 
 HPC has put together some information for transferring data to and from the cluster which you can read here: <https://spaces.charlotte.edu/pages/viewpage.action?pageId=110232096>
 
@@ -148,7 +148,7 @@ Features in jEdit that I like (that are probably available in other text editors
 
 -   View and switch encoding (Unix (\\n), Windows (\\n\\r), and MacOS (\\r)
 
-### Submitting jobs to the cluster
+### Submitting jobs to the cluster {#submitting-jobs-to-the-cluster}
 
 The *head nodes* are what you log into when you SSH into the cluster. They have limited capabilities to run jobs (not much memory) and everyone is using them to test/develop/organize/upload data.
 
@@ -168,7 +168,7 @@ Our HPC has put together some guidelines for submitting slurm scripts here: <htt
 
 You can also find sample slurm scripts for a wide array of applications on the cluster here: **/apps/slurm/examples**
 
-### Data Management
+### Data Management {#data-management}
 
 This section probably deserves it's own tutorial because **DATA MANAGEMENT IS SO IMPORTANT!!**
 
@@ -186,7 +186,7 @@ This section probably deserves it's own tutorial because **DATA MANAGEMENT IS SO
 
 -   Keep a lab notebook where you record what you have done every analysis day. This could be in a markdown file, on google drive, in a txt file.
 
-### Permissions
+### Permissions {#permissions}
 
 Each file has a set of associated permissions that describes who can read, edit, and execute files.
 
@@ -222,7 +222,7 @@ Use chmod with caution! If you need to change a file permission in the project s
 
 You can find a tutorial on updating file permissions here: <https://www.booleanworld.com/introduction-linux-file-permissions/>
 
-### Preserving session
+### Preserving sessions {#preserving-session}
 
 If you have unstable internet, the VPN is prone to disconnecting or you just want to be extra careful you can use **tmux to preserve your session.**
 
@@ -240,7 +240,7 @@ You can also do cool things like
 
 -   <https://github.com/tmux/tmux/wiki>
 
-### Using and Installing Programs and Packages
+### Using and Installing Programs and Packages {#using-and-installing-programs-and-packages}
 
 **Modules already installed**
 
@@ -364,7 +364,7 @@ But as a basic example, let's imagine we have a bunch of fasta files and we want
 
 `species2`
 
-### Getting Help
+### Getting Help {#getting-help}
 
 -   Google
 
