@@ -50,7 +50,7 @@ Access to the wet-lab is restricted to individuals who have BSLII certification.
 
 ## High Performance Computing Cluster
 
-You will need access to the HPC here at UNC Charlotte. If you had access in a class this will not be sufficient for our work. You will need to **request a research account** by going to this link <https://oneit.charlotte.edu/urc/get-started>
+You will need access to the HPC here at UNC Charlotte. If you had access in a class this will not be sufficient for our work. You will need to **request a research account** by going to this link <https://oneit.charlotte.edu/urc/get-started](https://services.help.charlotte.edu/TDClient/33/Portal/Requests/ServiceDet?ID=140>
 
 Make sure you **also ask for access to /projects/labella_lab**
 
