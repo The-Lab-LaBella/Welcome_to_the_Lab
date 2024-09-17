@@ -54,7 +54,7 @@ Options for logging into the cluster for different systems include:
 
 **Logging on off campus**
 
-To log into the research cluster **off campus** you will need to set up a VPN. For instructions on the VPN see this link: <https://spaces.charlotte.edu/pages/viewpage.action?pageId=6653379> This requires DUO authentication
+To log into the research cluster **off campus** you will need to set up a VPN. For instructions on the VPN see this link: https://services.help.charlotte.edu/TDClient/33/Portal/KB/ArticleDet?ID=677 This requires DUO authentication
 
 **Logging onto the HPC**
 
