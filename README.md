@@ -36,7 +36,7 @@ A detailed list of expectations can be found here: <https://github.com/The-Lab-L
 
 ## Lab Spaces
 
-**Bioinformatics Building** - There is no dedicated LaBella Lab space in the bioinformatics building. Dr. LaBella's office is BINF 327. If you need a work-space in the Bioinformatics building please email Dr. LaBella and she will find you a space in the shared graduate offices.
+**Bioinformatics Building** - Dr. LaBella's office is BINF 428. There are two options for working in the Bioinformatics Building. You can work in the LaBella lab computational room BINF 422. Master's students also have access to desks on the 3rd floor. Please email Dr. LaBella about options for working in the building. 
 
 If you need access to the Bioinformatics Building after hours you will need to fill out a building request form. Email Dr. LaBella for that form.
 
